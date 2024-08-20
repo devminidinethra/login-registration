@@ -16,13 +16,13 @@ This is a responsive login and registration form with social media icons. It is 
 
 ![image](https://github.com/user-attachments/assets/10baef04-264f-4465-9d19-997afda16be2)
 
-💻 Usage
+## 💻 Usage
 
   - Enter your NIC and password to log in.
   - If you are a new user, click on the "Register" button to sign up.
   - Connect with us on social media by clicking on the icons.
   
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
   - HTML5
   - CSS3
