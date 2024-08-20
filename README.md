@@ -27,7 +27,7 @@ This is a responsive login and registration form with social media icons. It is 
   - HTML5
   - CSS3
   - JavaScript
-  - Font Awesome Icons
+ 
 
 
 
